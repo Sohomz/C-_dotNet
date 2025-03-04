@@ -1,0 +1,14 @@
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\bin\Debug\net8.0\HelloWorldIDE.exe
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\bin\Debug\net8.0\HelloWorldIDE.deps.json
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\bin\Debug\net8.0\HelloWorldIDE.runtimeconfig.json
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\bin\Debug\net8.0\HelloWorldIDE.dll
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\bin\Debug\net8.0\HelloWorldIDE.pdb
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\obj\Debug\net8.0\HelloWorldIDE.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\obj\Debug\net8.0\HelloWorldIDE.AssemblyInfoInputs.cache
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\obj\Debug\net8.0\HelloWorldIDE.AssemblyInfo.cs
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\obj\Debug\net8.0\HelloWorldIDE.csproj.CoreCompileInputs.cache
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\obj\Debug\net8.0\HelloWorldIDE.dll
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\obj\Debug\net8.0\refint\HelloWorldIDE.dll
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\obj\Debug\net8.0\HelloWorldIDE.pdb
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\obj\Debug\net8.0\HelloWorldIDE.genruntimeconfig.cache
+G:\C#_.net\C-_dotNet_Learnings\HelloWorldIDE\HelloWorldIDE\obj\Debug\net8.0\ref\HelloWorldIDE.dll
