@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\C#_.net\\C-_dotNet_Learnings\\HelloWorldIDE\\",
+  "WorkspaceRootPath": "G:\\C#_dotNet_learnings\\C-_dotNet\\HelloWorldIDE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70F3E88D-4E42-40E6-B6E4-569606981923}|HelloWorldIDE\\HelloWorldIDE.csproj|g:\\c#_.net\\c-_dotnet_learnings\\helloworldide\\helloworldide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70F3E88D-4E42-40E6-B6E4-569606981923}|HelloWorldIDE\\HelloWorldIDE.csproj|g:\\c#_dotnet_learnings\\c-_dotnet\\helloworldide\\helloworldide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70F3E88D-4E42-40E6-B6E4-569606981923}|HelloWorldIDE\\HelloWorldIDE.csproj|solutionrelative:helloworldide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\C#_.net\\C-_dotNet_Learnings\\HelloWorldIDE\\HelloWorldIDE\\Program.cs",
+              "DocumentMoniker": "G:\\C#_dotNet_learnings\\C-_dotNet\\HelloWorldIDE\\HelloWorldIDE\\Program.cs",
               "RelativeDocumentMoniker": "HelloWorldIDE\\Program.cs",
-              "ToolTip": "G:\\C#_.net\\C-_dotNet_Learnings\\HelloWorldIDE\\HelloWorldIDE\\Program.cs",
-              "RelativeToolTip": "HelloWorldIDE\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "ToolTip": "G:\\C#_dotNet_learnings\\C-_dotNet\\HelloWorldIDE\\HelloWorldIDE\\Program.cs*",
+              "RelativeToolTip": "HelloWorldIDE\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T09:40:12.132Z",
               "EditorCaption": ""
