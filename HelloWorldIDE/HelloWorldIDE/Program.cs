@@ -17,10 +17,20 @@
 //String lastName = "Das";
 //Console.WriteLine(firstName + " " + lastName);
 
-int employeeId = 20;
-String companyName = "UTCLI";
-String lowerCompanyName = companyName.ToLower();
-String subStringcompanyName = companyName.Substring(2);
+//int employeeId = 20;
+//String companyName = "UTCLI";
+//String lowerCompanyName = companyName.ToLower();
+//String subStringcompanyName = companyName.Substring(2);
 
-Console.WriteLine($"Hello, my employee ID is {employeeId} and my company name is {companyName} {lowerCompanyName} {subStringcompanyName}");
+//Console.WriteLine($"Hello, my employee ID is {employeeId} and my company name is {companyName} {lowerCompanyName} {subStringcompanyName}");
+
+//Reverse a string
+Console.WriteLine("Enter a String");
+string input = Console.ReadLine();
+
+
+char[] charArray = input.ToCharArray();
+Array.Reverse(charArray);
+string reversedString = new string(charArray);
+Console.WriteLine(reversedString);
 
