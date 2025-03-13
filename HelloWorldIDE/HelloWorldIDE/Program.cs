@@ -127,8 +127,8 @@ using HelloWorldIDE;
 //double result = TryCatch.TryCatchMethod(numerator, denominator);
 //Console.WriteLine($"Result is: {result}");
 
-//Console.WriteLine("Enter length");
-//int l=int.Parse(Console.ReadLine());
-//Pattern3.pattern3(l);
+Console.WriteLine("Enter length");
+int l=int.Parse(Console.ReadLine());
+Pattern3.pattern3(l);
 
 
