@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{72DD228C-94BB-4A1F-B776-E3520DEB438D}|ProgramStructureLearn\\ProgramStructureLearn.csproj|g:\\c#_dotnet_learnings\\c-_dotnet\\programstructurelearn\\programstructurelearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72DD228C-94BB-4A1F-B776-E3520DEB438D}|ProgramStructureLearn\\ProgramStructureLearn.csproj|solutionrelative:programstructurelearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DD228C-94BB-4A1F-B776-E3520DEB438D}|ProgramStructureLearn\\ProgramStructureLearn.csproj|G:\\C#_dotNet_learnings\\C-_dotNet\\ProgramStructureLearn\\programstructurelearn\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DD228C-94BB-4A1F-B776-E3520DEB438D}|ProgramStructureLearn\\ProgramStructureLearn.csproj|solutionrelative:programstructurelearn\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "G:\\C#_dotNet_learnings\\C-_dotNet\\ProgramStructureLearn\\ProgramStructureLearn\\Computer.cs",
+              "RelativeDocumentMoniker": "ProgramStructureLearn\\Computer.cs",
+              "ToolTip": "G:\\C#_dotNet_learnings\\C-_dotNet\\ProgramStructureLearn\\ProgramStructureLearn\\Computer.cs",
+              "RelativeToolTip": "ProgramStructureLearn\\Computer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:09:35.657Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "ProgramStructureLearn\\Program.cs",
               "ToolTip": "G:\\C#_dotNet_learnings\\C-_dotNet\\ProgramStructureLearn\\ProgramStructureLearn\\Program.cs",
               "RelativeToolTip": "ProgramStructureLearn\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T15:46:08.047Z",
               "EditorCaption": ""

@@ -1,0 +1,7 @@
+G:\C#_dotNet_learnings\C-_dotNet\ProgramStructureLearn\ProgramStructureLearn\bin\Debug\ProgramStructureLearn.exe.config
+G:\C#_dotNet_learnings\C-_dotNet\ProgramStructureLearn\ProgramStructureLearn\bin\Debug\ProgramStructureLearn.exe
+G:\C#_dotNet_learnings\C-_dotNet\ProgramStructureLearn\ProgramStructureLearn\bin\Debug\ProgramStructureLearn.pdb
+G:\C#_dotNet_learnings\C-_dotNet\ProgramStructureLearn\ProgramStructureLearn\obj\Debug\ProgramStructureLearn.csproj.AssemblyReference.cache
+G:\C#_dotNet_learnings\C-_dotNet\ProgramStructureLearn\ProgramStructureLearn\obj\Debug\ProgramStructureLearn.csproj.CoreCompileInputs.cache
+G:\C#_dotNet_learnings\C-_dotNet\ProgramStructureLearn\ProgramStructureLearn\obj\Debug\ProgramStructureLearn.exe
+G:\C#_dotNet_learnings\C-_dotNet\ProgramStructureLearn\ProgramStructureLearn\obj\Debug\ProgramStructureLearn.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{72DD228C-94BB-4A1F-B776-E3520DEB438D}</ProjectGuid>
+    <ProjectGuid>{F1E5EF6F-5422-46E6-A7F8-915F047FC5B9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProgramStructureLearn</RootNamespace>
-    <AssemblyName>ProgramStructureLearn</AssemblyName>
+    <RootNamespace>InterfaceMultiPleInheritance</RootNamespace>
+    <AssemblyName>InterfaceMultiPleInheritance</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Computer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

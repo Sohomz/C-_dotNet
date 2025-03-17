@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C#_dotNet_learnings\\C-_dotNet\\InterfaceMultiPleInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E5EF6F-5422-46E6-A7F8-915F047FC5B9}|InterfaceMultiPleInheritance\\InterfaceMultiPleInheritance.csproj|g:\\c#_dotnet_learnings\\c-_dotnet\\interfacemultipleinheritance\\interfacemultipleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E5EF6F-5422-46E6-A7F8-915F047FC5B9}|InterfaceMultiPleInheritance\\InterfaceMultiPleInheritance.csproj|solutionrelative:interfacemultipleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\C#_dotNet_learnings\\C-_dotNet\\InterfaceMultiPleInheritance\\InterfaceMultiPleInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceMultiPleInheritance\\Program.cs",
+              "ToolTip": "G:\\C#_dotNet_learnings\\C-_dotNet\\InterfaceMultiPleInheritance\\InterfaceMultiPleInheritance\\Program.cs",
+              "RelativeToolTip": "InterfaceMultiPleInheritance\\Program.cs",
+              "ViewState": "AgIAAA8AAACAmZmZmZkBwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:42:49.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

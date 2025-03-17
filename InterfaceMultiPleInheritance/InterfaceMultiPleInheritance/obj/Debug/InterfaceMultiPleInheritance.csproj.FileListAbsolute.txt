@@ -1,0 +1,7 @@
+G:\C#_dotNet_learnings\C-_dotNet\InterfaceMultiPleInheritance\InterfaceMultiPleInheritance\bin\Debug\InterfaceMultiPleInheritance.exe.config
+G:\C#_dotNet_learnings\C-_dotNet\InterfaceMultiPleInheritance\InterfaceMultiPleInheritance\bin\Debug\InterfaceMultiPleInheritance.exe
+G:\C#_dotNet_learnings\C-_dotNet\InterfaceMultiPleInheritance\InterfaceMultiPleInheritance\bin\Debug\InterfaceMultiPleInheritance.pdb
+G:\C#_dotNet_learnings\C-_dotNet\InterfaceMultiPleInheritance\InterfaceMultiPleInheritance\obj\Debug\InterfaceMultiPleInheritance.csproj.AssemblyReference.cache
+G:\C#_dotNet_learnings\C-_dotNet\InterfaceMultiPleInheritance\InterfaceMultiPleInheritance\obj\Debug\InterfaceMultiPleInheritance.csproj.CoreCompileInputs.cache
+G:\C#_dotNet_learnings\C-_dotNet\InterfaceMultiPleInheritance\InterfaceMultiPleInheritance\obj\Debug\InterfaceMultiPleInheritance.exe
+G:\C#_dotNet_learnings\C-_dotNet\InterfaceMultiPleInheritance\InterfaceMultiPleInheritance\obj\Debug\InterfaceMultiPleInheritance.pdb

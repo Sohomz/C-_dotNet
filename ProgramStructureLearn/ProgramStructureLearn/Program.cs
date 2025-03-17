@@ -10,6 +10,11 @@ namespace ProgramStructureLearn
     {
         static void Main(string[] args)
         {
+            Computer computer = new Computer();
+            //Console.WriteLine(computer);
+            //computer.startUp();
+            computer.Color = "Crimson White";
+            computer.DisplayInfo();
         }
     }
 }

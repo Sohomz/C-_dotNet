@@ -1,0 +1,7 @@
+G:\C#_dotNet_learnings\C-_dotNet\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+G:\C#_dotNet_learnings\C-_dotNet\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+G:\C#_dotNet_learnings\C-_dotNet\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+G:\C#_dotNet_learnings\C-_dotNet\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+G:\C#_dotNet_learnings\C-_dotNet\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+G:\C#_dotNet_learnings\C-_dotNet\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+G:\C#_dotNet_learnings\C-_dotNet\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
