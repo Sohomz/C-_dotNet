@@ -1,0 +1,9 @@
+G:\C#_dotNet_learnings\C-_dotNet\LINQwithXML\LINQwithXML\bin\Debug\input.xml
+G:\C#_dotNet_learnings\C-_dotNet\LINQwithXML\LINQwithXML\bin\Debug\output.xml
+G:\C#_dotNet_learnings\C-_dotNet\LINQwithXML\LINQwithXML\bin\Debug\LINQwithXML.exe.config
+G:\C#_dotNet_learnings\C-_dotNet\LINQwithXML\LINQwithXML\bin\Debug\LINQwithXML.exe
+G:\C#_dotNet_learnings\C-_dotNet\LINQwithXML\LINQwithXML\bin\Debug\LINQwithXML.pdb
+G:\C#_dotNet_learnings\C-_dotNet\LINQwithXML\LINQwithXML\obj\Debug\LINQwithXML.csproj.AssemblyReference.cache
+G:\C#_dotNet_learnings\C-_dotNet\LINQwithXML\LINQwithXML\obj\Debug\LINQwithXML.csproj.CoreCompileInputs.cache
+G:\C#_dotNet_learnings\C-_dotNet\LINQwithXML\LINQwithXML\obj\Debug\LINQwithXML.exe
+G:\C#_dotNet_learnings\C-_dotNet\LINQwithXML\LINQwithXML\obj\Debug\LINQwithXML.pdb

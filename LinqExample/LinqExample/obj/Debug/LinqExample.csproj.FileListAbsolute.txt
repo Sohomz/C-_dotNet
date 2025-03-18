@@ -1,0 +1,7 @@
+G:\C#_dotNet_learnings\C-_dotNet\LinqExample\LinqExample\bin\Debug\LinqExample.exe.config
+G:\C#_dotNet_learnings\C-_dotNet\LinqExample\LinqExample\bin\Debug\LinqExample.exe
+G:\C#_dotNet_learnings\C-_dotNet\LinqExample\LinqExample\bin\Debug\LinqExample.pdb
+G:\C#_dotNet_learnings\C-_dotNet\LinqExample\LinqExample\obj\Debug\LinqExample.csproj.AssemblyReference.cache
+G:\C#_dotNet_learnings\C-_dotNet\LinqExample\LinqExample\obj\Debug\LinqExample.csproj.CoreCompileInputs.cache
+G:\C#_dotNet_learnings\C-_dotNet\LinqExample\LinqExample\obj\Debug\LinqExample.exe
+G:\C#_dotNet_learnings\C-_dotNet\LinqExample\LinqExample\obj\Debug\LinqExample.pdb

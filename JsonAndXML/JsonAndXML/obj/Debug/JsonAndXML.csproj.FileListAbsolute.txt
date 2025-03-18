@@ -1,0 +1,10 @@
+G:\C#_dotNet_learnings\C-_dotNet\JsonAndXML\JsonAndXML\bin\Debug\JsonAndXML.exe.config
+G:\C#_dotNet_learnings\C-_dotNet\JsonAndXML\JsonAndXML\bin\Debug\JsonAndXML.exe
+G:\C#_dotNet_learnings\C-_dotNet\JsonAndXML\JsonAndXML\bin\Debug\JsonAndXML.pdb
+G:\C#_dotNet_learnings\C-_dotNet\JsonAndXML\JsonAndXML\bin\Debug\Newtonsoft.Json.dll
+G:\C#_dotNet_learnings\C-_dotNet\JsonAndXML\JsonAndXML\bin\Debug\Newtonsoft.Json.xml
+G:\C#_dotNet_learnings\C-_dotNet\JsonAndXML\JsonAndXML\obj\Debug\JsonAndXML.csproj.AssemblyReference.cache
+G:\C#_dotNet_learnings\C-_dotNet\JsonAndXML\JsonAndXML\obj\Debug\JsonAndXML.csproj.CoreCompileInputs.cache
+G:\C#_dotNet_learnings\C-_dotNet\JsonAndXML\JsonAndXML\obj\Debug\JsonAndXML.csproj.Up2Date
+G:\C#_dotNet_learnings\C-_dotNet\JsonAndXML\JsonAndXML\obj\Debug\JsonAndXML.exe
+G:\C#_dotNet_learnings\C-_dotNet\JsonAndXML\JsonAndXML\obj\Debug\JsonAndXML.pdb

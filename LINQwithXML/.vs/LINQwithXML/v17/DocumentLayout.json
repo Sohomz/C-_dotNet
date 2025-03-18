@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C#_dotNet_learnings\\C-_dotNet\\LINQwithXML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06E61FB8-A8E8-4A94-BA15-513D40BCEAAE}|LINQwithXML\\LINQwithXML.csproj|g:\\c#_dotnet_learnings\\c-_dotnet\\linqwithxml\\linqwithxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E61FB8-A8E8-4A94-BA15-513D40BCEAAE}|LINQwithXML\\LINQwithXML.csproj|solutionrelative:linqwithxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E61FB8-A8E8-4A94-BA15-513D40BCEAAE}|LINQwithXML\\LINQwithXML.csproj|g:\\c#_dotnet_learnings\\c-_dotnet\\linqwithxml\\linqwithxml\\output.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06E61FB8-A8E8-4A94-BA15-513D40BCEAAE}|LINQwithXML\\LINQwithXML.csproj|solutionrelative:linqwithxml\\output.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E61FB8-A8E8-4A94-BA15-513D40BCEAAE}|LINQwithXML\\LINQwithXML.csproj|g:\\c#_dotnet_learnings\\c-_dotnet\\linqwithxml\\linqwithxml\\input.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06E61FB8-A8E8-4A94-BA15-513D40BCEAAE}|LINQwithXML\\LINQwithXML.csproj|solutionrelative:linqwithxml\\input.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.xml",
+              "DocumentMoniker": "G:\\C#_dotNet_learnings\\C-_dotNet\\LINQwithXML\\LINQwithXML\\input.xml",
+              "RelativeDocumentMoniker": "LINQwithXML\\input.xml",
+              "ToolTip": "G:\\C#_dotNet_learnings\\C-_dotNet\\LINQwithXML\\LINQwithXML\\input.xml",
+              "RelativeToolTip": "LINQwithXML\\input.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-18T12:17:53.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.xml",
+              "DocumentMoniker": "G:\\C#_dotNet_learnings\\C-_dotNet\\LINQwithXML\\LINQwithXML\\output.xml",
+              "RelativeDocumentMoniker": "LINQwithXML\\output.xml",
+              "ToolTip": "G:\\C#_dotNet_learnings\\C-_dotNet\\LINQwithXML\\LINQwithXML\\output.xml",
+              "RelativeToolTip": "LINQwithXML\\output.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-18T12:17:48.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\C#_dotNet_learnings\\C-_dotNet\\LINQwithXML\\LINQwithXML\\Program.cs",
+              "RelativeDocumentMoniker": "LINQwithXML\\Program.cs",
+              "ToolTip": "G:\\C#_dotNet_learnings\\C-_dotNet\\LINQwithXML\\LINQwithXML\\Program.cs",
+              "RelativeToolTip": "LINQwithXML\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:25:55.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

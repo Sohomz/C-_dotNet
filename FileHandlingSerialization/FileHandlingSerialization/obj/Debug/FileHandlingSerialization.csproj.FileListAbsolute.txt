@@ -1,0 +1,7 @@
+G:\C#_dotNet_learnings\C-_dotNet\FileHandlingSerialization\FileHandlingSerialization\bin\Debug\FileHandlingSerialization.exe.config
+G:\C#_dotNet_learnings\C-_dotNet\FileHandlingSerialization\FileHandlingSerialization\bin\Debug\FileHandlingSerialization.exe
+G:\C#_dotNet_learnings\C-_dotNet\FileHandlingSerialization\FileHandlingSerialization\bin\Debug\FileHandlingSerialization.pdb
+G:\C#_dotNet_learnings\C-_dotNet\FileHandlingSerialization\FileHandlingSerialization\obj\Debug\FileHandlingSerialization.csproj.AssemblyReference.cache
+G:\C#_dotNet_learnings\C-_dotNet\FileHandlingSerialization\FileHandlingSerialization\obj\Debug\FileHandlingSerialization.csproj.CoreCompileInputs.cache
+G:\C#_dotNet_learnings\C-_dotNet\FileHandlingSerialization\FileHandlingSerialization\obj\Debug\FileHandlingSerialization.exe
+G:\C#_dotNet_learnings\C-_dotNet\FileHandlingSerialization\FileHandlingSerialization\obj\Debug\FileHandlingSerialization.pdb
