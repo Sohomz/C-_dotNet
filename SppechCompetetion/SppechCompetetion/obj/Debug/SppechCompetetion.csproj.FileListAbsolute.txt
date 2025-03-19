@@ -1,0 +1,7 @@
+G:\C#_dotNet_learnings\C-_dotNet\SppechCompetetion\SppechCompetetion\bin\Debug\SppechCompetetion.exe.config
+G:\C#_dotNet_learnings\C-_dotNet\SppechCompetetion\SppechCompetetion\bin\Debug\SppechCompetetion.exe
+G:\C#_dotNet_learnings\C-_dotNet\SppechCompetetion\SppechCompetetion\bin\Debug\SppechCompetetion.pdb
+G:\C#_dotNet_learnings\C-_dotNet\SppechCompetetion\SppechCompetetion\obj\Debug\SppechCompetetion.csproj.AssemblyReference.cache
+G:\C#_dotNet_learnings\C-_dotNet\SppechCompetetion\SppechCompetetion\obj\Debug\SppechCompetetion.csproj.CoreCompileInputs.cache
+G:\C#_dotNet_learnings\C-_dotNet\SppechCompetetion\SppechCompetetion\obj\Debug\SppechCompetetion.exe
+G:\C#_dotNet_learnings\C-_dotNet\SppechCompetetion\SppechCompetetion\obj\Debug\SppechCompetetion.pdb
