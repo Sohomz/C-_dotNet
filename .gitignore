@@ -1,0 +1,8 @@
+# Visual Studio temporary files
+.vs/
+
+# Other common files to ignore
+[Dd]ebug/
+[Rr]elease/
+*.pdb
+*.suo
